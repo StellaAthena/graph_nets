@@ -3,7 +3,8 @@
 # Graph Nets library
 
 [Graph Nets](https://github.com/deepmind/graph_nets) is DeepMind's library for
-building graph networks in Tensorflow and Sonnet.
+building graph networks in Tensorflow and Sonnet. This repo was made based off of
+Graph Nets by Stella Biderman.
 
 Contact graph-nets@google.com for comments and questions.
 
